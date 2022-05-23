@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=ehs0525&show_icons=true&hide_border=true)](https://github.com/ehs0525)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehs0525&layout=compact)](https://github.com/ehs0525)
 
-<a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
